@@ -16,7 +16,7 @@ minimal_mistakes_skin    :  "mint" # "default" # "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "코딩 병아리"
+title                    : "코딩하는 병아리"
 title_separator          : "&#124;" # &#124 -> | , "-"
 subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "jjym12"
@@ -26,7 +26,7 @@ baseurl                  : ""
 repository               : "jjym12/jjym12.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo/chick.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "코딩 병아리 Blog" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "코딩하는 병아리 Blog" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "jjym12" #"Your Name"
   avatar           : "/assets/images/profile/jjym12_418.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "블로그 도전생 <br> -------------" #"I am an **amazing** person."
+  bio              : "블로그 도전생 삐약삐약 <br> -------------" #"I am an **amazing** person."
   location         : "Republic of Korea" #"Somewhere"
   email            :
   links:
