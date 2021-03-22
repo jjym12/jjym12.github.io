@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "jjym12" #"Your Name"
   avatar           : "/assets/images/profile/jjym12_418.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "블로그 도전생 삐약삐약 <br> -------------" #"I am an **amazing** person."
+  bio              : "블로그 도전생 삐약삐약 <br> ------------- <br> test01" #"I am an **amazing** person."
   location         : "Republic of Korea" #"Somewhere"
   email            :
   links:
