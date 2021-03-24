@@ -10,5 +10,7 @@ main:
     url: /categories/
   - title: "Collections"
     url: /collection-archive/
+  - title: "Tags"
+    url: /tags/
   - title: "Sitemap"
     url: /sitemap/
