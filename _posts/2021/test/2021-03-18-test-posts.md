@@ -1,7 +1,8 @@
 ---
-title: "Test"
+title: Test
 categories:
   - Test
+  - cate
 tags:
   - content
   - css
