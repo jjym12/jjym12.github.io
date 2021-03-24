@@ -8,9 +8,9 @@ main:
     url: /year-archive/
   - title: "Categorys"
     url: /categories/
-  - title: "Collections"
-    url: /collection-archive/
+  # - title: "Collections"
+  #   url: /collection-archive/
   - title: "Tags"
     url: /tags/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Sitemap"
+  #   url: /sitemap/
